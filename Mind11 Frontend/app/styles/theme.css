@@ -1,0 +1,97 @@
+:root {
+  /* Primary Background */
+  --color-bg-primary: #050B2A;
+  --color-bg-secondary: #07133A;
+  --color-bg-surface: #0A1035;
+  --color-bg-darkest: #020617;
+
+  /* Glass */
+  --color-bg-card: rgba(255, 255, 255, 0.06);
+  --color-bg-glass: rgba(255, 255, 255, 0.06);
+  --color-bg-glass-hover: rgba(255, 255, 255, 0.1);
+  --color-bg-glass-strong: rgba(255, 255, 255, 0.1);
+
+  /* Electric Blue System */
+  --color-primary: #1B4DFF;
+  --color-primary-glow: rgba(61, 123, 255, 0.4);
+  --color-neon-blue: #3D7BFF;
+  --color-royal-blue: #0B5CFF;
+  --color-soft-blue: #6EA8FF;
+
+  /* Purple System */
+  --color-secondary: #5A3DFF;
+  --color-secondary-glow: rgba(90, 61, 255, 0.35);
+  --color-deep-purple: #312E81;
+
+  /* IPL Gold System */
+  --color-accent: #FFC93C;
+  --color-accent-glow: rgba(255, 201, 60, 0.4);
+  --color-warm-yellow: #FFD84D;
+
+  /* Text */
+  --color-text-primary: #FFFFFF;
+  --color-text-secondary: rgba(255, 255, 255, 0.75);
+  --color-text-muted: rgba(255, 255, 255, 0.45);
+
+  /* Borders */
+  --color-border: rgba(255, 255, 255, 0.12);
+  --color-border-glow: rgba(61, 123, 255, 0.3);
+
+  /* Neon Accents */
+  --color-neon-yellow: #FFC93C;
+  --color-neon-red: #EF4444;
+  --color-neon-blue: #3D7BFF;
+  --color-neon-purple: #5A3DFF;
+  --color-neon-cyan: #00D1FF;
+
+  /* Card Glow Colors */
+  --card-glow-yellow: rgba(255, 201, 60, 0.45);
+  --card-glow-red: rgba(239, 68, 68, 0.45);
+  --card-glow-blue: rgba(61, 123, 255, 0.45);
+  --card-glow-purple: rgba(90, 61, 255, 0.45);
+
+  /* Glow Shadows */
+  --glow-blue: 0 0 80px rgba(61, 123, 255, 0.35);
+  --glow-purple: 0 0 60px rgba(90, 61, 255, 0.25);
+  --glow-gold: 0 0 30px rgba(255, 201, 60, 0.35);
+
+  /* Font Families */
+  --family-display: 'Orbitron', 'Space Grotesk', sans-serif;
+  --family-body: 'Space Grotesk', sans-serif;
+  --family-mono: 'JetBrains Mono', monospace;
+
+  /* Spacing */
+  --space-xs: 4px;
+  --space-sm: 8px;
+  --space-md: 16px;
+  --space-lg: 24px;
+  --space-xl: 32px;
+  --space-2xl: 48px;
+  --space-3xl: 64px;
+  --space-4xl: 96px;
+
+  /* Border Radius */
+  --radius-sm: 6px;
+  --radius-md: 12px;
+  --radius-lg: 20px;
+  --radius-xl: 28px;
+  --radius-full: 9999px;
+
+  /* Shadows */
+  --shadow-glass: 0 8px 32px rgba(0, 0, 0, 0.4);
+  --shadow-card: 0 20px 60px rgba(0, 0, 0, 0.5);
+
+  /* Text sizes */
+  --text-xs: 0.75rem;
+  --text-sm: 0.875rem;
+  --text-base: 1rem;
+  --text-lg: 1.125rem;
+  --text-xl: 1.25rem;
+  --text-2xl: 1.5rem;
+  --text-3xl: 1.875rem;
+  --text-4xl: 2.25rem;
+  --text-5xl: 3rem;
+  --text-6xl: 3.75rem;
+  --text-7xl: 4.5rem;
+  --text-8xl: 6rem;
+}
