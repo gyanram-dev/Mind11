@@ -1,8 +1,29 @@
-import { useEffect, useRef, useState } from 'react';
-import { motion, useSpring, useTransform } from 'framer-motion';
+import { useEffect, useRef, useState, useMemo } from 'react';
+import { motion, useSpring, useTransform, animate } from 'framer-motion';
 import type { Player } from '~/data/players';
 import { createAvatarUrl } from '~/lib/playerNormalizer';
+import { calculateConfidence } from '~/lib/recommendationConfidence';
 import styles from './player-card.module.css';
+
+function AnimatedConfidence({ value }: { value: number }) {
+  const nodeRef = useRef<HTMLSpanElement>(null);
+
+  useEffect(() => {
+    const node = nodeRef.current;
+    if (node) {
+      const controls = animate(0, value, {
+        duration: 1.5,
+        ease: 'easeOut',
+        onUpdate(v) {
+          node.textContent = `${Math.round(v)}%`;
+        },
+      });
+      return () => controls.stop();
+    }
+  }, [value]);
+
+  return <span ref={nodeRef}>0%</span>;
+}
 
 interface PlayerCardProps {
   player: Player;
@@ -31,6 +52,7 @@ export function PlayerCard({ player, glowColor, style, className, compact }: Pla
   const glowRgb = extractRgb(glow);
   const fallbackImageUrl = createAvatarUrl(player.name);
   const displayImageUrl = imgError || !player.imageUrl ? fallbackImageUrl : player.imageUrl;
+  const confidence = useMemo(() => calculateConfidence(player), [player]);
 
   useEffect(() => {
     setImgError(false);
@@ -108,11 +130,29 @@ export function PlayerCard({ player, glowColor, style, className, compact }: Pla
           }}
         />
 
-        {/* Team badge */}
-        <div className={styles.teamBadge} style={{ color: player.teamColor }}>
-          <span className={styles.teamEmoji}>{getTeamEmoji(player.team)}</span>
-          <span className={styles.teamName}>{player.team}</span>
+        {/* Top edge and Badges */}
+        <div className={styles.topBar}>
+          <div className={styles.teamBadge} style={{ color: player.teamColor }}>
+            <span className={styles.teamEmoji}>{getTeamEmoji(player.team)}</span>
+            <span className={styles.teamName}>{player.team}</span>
+          </div>
+          <div 
+            className={styles.confidenceBadge} 
+            style={{ 
+              borderColor: `rgba(${glowRgb}, 0.3)`, 
+              background: `rgba(2, 6, 23, 0.6)` 
+            }}
+          >
+            <span className={styles.confidenceIcon} style={{ color: glow }}>✦</span>
+            <span 
+              className={styles.confidenceValue} 
+              style={{ color: glow, textShadow: `0 0 8px rgba(${glowRgb}, 0.5)` }}
+            >
+              <AnimatedConfidence value={confidence} />
+            </span>
+          </div>
         </div>
+
 
         {/* Player real photo */}
         <div className={styles.playerImageArea}>
