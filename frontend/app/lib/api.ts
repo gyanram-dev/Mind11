@@ -1,4 +1,4 @@
-const API_BASE_URL = 'http://localhost:5000';
+const API_BASE_URL = 'https://mind11.onrender.com';
 const DEFAULT_TIMEOUT = 10000;
 
 export interface Player {
