@@ -1,0 +1,541 @@
+[
+  {
+    "id": "ms-dhoni",
+    "name": "MS Dhoni",
+    "team": "CSK",
+    "role": "Wicket-keeper",
+    "image": "/players/ms-dhoni.png"
+  },
+  {
+    "id": "ravindra-jadeja",
+    "name": "Ravindra Jadeja",
+    "team": "CSK",
+    "role": "All-rounder",
+    "image": "/players/ravindra-jadeja.png"
+  },
+  {
+    "id": "ruturaj-gaikwad",
+    "name": "Ruturaj Gaikwad",
+    "team": "CSK",
+    "role": "Batsman",
+    "image": "/players/ruturaj-gaikwad.png"
+  },
+  {
+    "id": "shivam-dube",
+    "name": "Shivam Dube",
+    "team": "CSK",
+    "role": "All-rounder",
+    "image": "/players/shivam-dube.png"
+  },
+  {
+    "id": "matheesha-pathirana",
+    "name": "Matheesha Pathirana",
+    "team": "CSK",
+    "role": "Bowler",
+    "image": "/players/matheesha-pathirana.png"
+  },
+  {
+    "id": "deepak-chahar",
+    "name": "Deepak Chahar",
+    "team": "CSK",
+    "role": "Bowler",
+    "image": "/players/deepak-chahar.png"
+  },
+  {
+    "id": "rachin-ravindra",
+    "name": "Rachin Ravindra",
+    "team": "CSK",
+    "role": "All-rounder",
+    "image": "/players/rachin-ravindra.png"
+  },
+  {
+    "id": "devon-conway",
+    "name": "Devon Conway",
+    "team": "CSK",
+    "role": "Batsman",
+    "image": "/players/devon-conway.png"
+  },
+  {
+    "id": "rohit-sharma",
+    "name": "Rohit Sharma",
+    "team": "MI",
+    "role": "Batsman",
+    "image": "/players/rohit-sharma.png"
+  },
+  {
+    "id": "jasprit-bumrah",
+    "name": "Jasprit Bumrah",
+    "team": "MI",
+    "role": "Bowler",
+    "image": "/players/jasprit-bumrah.png"
+  },
+  {
+    "id": "suryakumar-yadav",
+    "name": "Suryakumar Yadav",
+    "team": "MI",
+    "role": "Batsman",
+    "image": "/players/suryakumar-yadav.png"
+  },
+  {
+    "id": "hardik-pandya",
+    "name": "Hardik Pandya",
+    "team": "MI",
+    "role": "All-rounder",
+    "image": "/players/hardik-pandya.png"
+  },
+  {
+    "id": "ishan-kishan",
+    "name": "Ishan Kishan",
+    "team": "MI",
+    "role": "Wicket-keeper",
+    "image": "/players/ishan-kishan.png"
+  },
+  {
+    "id": "tim-david",
+    "name": "Tim David",
+    "team": "MI",
+    "role": "Batsman",
+    "image": "/players/tim-david.png"
+  },
+  {
+    "id": "tilak-varma",
+    "name": "Tilak Varma",
+    "team": "MI",
+    "role": "Batsman",
+    "image": "/players/tilak-varma.png"
+  },
+  {
+    "id": "piyush-chawla",
+    "name": "Piyush Chawla",
+    "team": "MI",
+    "role": "Bowler",
+    "image": "/players/piyush-chawla.png"
+  },
+  {
+    "id": "virat-kohli",
+    "name": "Virat Kohli",
+    "team": "RCB",
+    "role": "Batsman",
+    "image": "/players/virat-kohli.png"
+  },
+  {
+    "id": "faf-du-plessis",
+    "name": "Faf du Plessis",
+    "team": "RCB",
+    "role": "Batsman",
+    "image": "/players/faf-du-plessis.png"
+  },
+  {
+    "id": "glenn-maxwell",
+    "name": "Glenn Maxwell",
+    "team": "RCB",
+    "role": "All-rounder",
+    "image": "/players/glenn-maxwell.png"
+  },
+  {
+    "id": "mohammed-siraj",
+    "name": "Mohammed Siraj",
+    "team": "RCB",
+    "role": "Bowler",
+    "image": "/players/mohammed-siraj.png"
+  },
+  {
+    "id": "rajat-patidar",
+    "name": "Rajat Patidar",
+    "team": "RCB",
+    "role": "Batsman",
+    "image": "/players/rajat-patidar.png"
+  },
+  {
+    "id": "cameron-green",
+    "name": "Cameron Green",
+    "team": "RCB",
+    "role": "All-rounder",
+    "image": "/players/cameron-green.png"
+  },
+  {
+    "id": "will-jacks",
+    "name": "Will Jacks",
+    "team": "RCB",
+    "role": "All-rounder",
+    "image": "/players/will-jacks.png"
+  },
+  {
+    "id": "dinesh-karthik",
+    "name": "Dinesh Karthik",
+    "team": "RCB",
+    "role": "Wicket-keeper",
+    "image": "/players/dinesh-karthik.png"
+  },
+  {
+    "id": "andre-russell",
+    "name": "Andre Russell",
+    "team": "KKR",
+    "role": "All-rounder",
+    "image": "/players/andre-russell.png"
+  },
+  {
+    "id": "sunil-narine",
+    "name": "Sunil Narine",
+    "team": "KKR",
+    "role": "All-rounder",
+    "image": "/players/sunil-narine.png"
+  },
+  {
+    "id": "rinku-singh",
+    "name": "Rinku Singh",
+    "team": "KKR",
+    "role": "Batsman",
+    "image": "/players/rinku-singh.png"
+  },
+  {
+    "id": "shreyas-iyer",
+    "name": "Shreyas Iyer",
+    "team": "KKR",
+    "role": "Batsman",
+    "image": "/players/shreyas-iyer.png"
+  },
+  {
+    "id": "mitchell-starc",
+    "name": "Mitchell Starc",
+    "team": "KKR",
+    "role": "Bowler",
+    "image": "/players/mitchell-starc.png"
+  },
+  {
+    "id": "varun-chakaravarthy",
+    "name": "Varun Chakaravarthy",
+    "team": "KKR",
+    "role": "Bowler",
+    "image": "/players/varun-chakaravarthy.png"
+  },
+  {
+    "id": "venkatesh-iyer",
+    "name": "Venkatesh Iyer",
+    "team": "KKR",
+    "role": "All-rounder",
+    "image": "/players/venkatesh-iyer.png"
+  },
+  {
+    "id": "phil-salt",
+    "name": "Phil Salt",
+    "team": "KKR",
+    "role": "Wicket-keeper",
+    "image": "/players/phil-salt.png"
+  },
+  {
+    "id": "travis-head",
+    "name": "Travis Head",
+    "team": "SRH",
+    "role": "Batsman",
+    "image": "/players/travis-head.png"
+  },
+  {
+    "id": "heinrich-klaasen",
+    "name": "Heinrich Klaasen",
+    "team": "SRH",
+    "role": "Wicket-keeper",
+    "image": "/players/heinrich-klaasen.png"
+  },
+  {
+    "id": "pat-cummins",
+    "name": "Pat Cummins",
+    "team": "SRH",
+    "role": "Bowler",
+    "image": "/players/pat-cummins.png"
+  },
+  {
+    "id": "abhishek-sharma",
+    "name": "Abhishek Sharma",
+    "team": "SRH",
+    "role": "All-rounder",
+    "image": "/players/abhishek-sharma.png"
+  },
+  {
+    "id": "bhuvneshwar-kumar",
+    "name": "Bhuvneshwar Kumar",
+    "team": "SRH",
+    "role": "Bowler",
+    "image": "/players/bhuvneshwar-kumar.png"
+  },
+  {
+    "id": "t-natarajan",
+    "name": "T Natarajan",
+    "team": "SRH",
+    "role": "Bowler",
+    "image": "/players/t-natarajan.png"
+  },
+  {
+    "id": "aiden-markram",
+    "name": "Aiden Markram",
+    "team": "SRH",
+    "role": "Batsman",
+    "image": "/players/aiden-markram.png"
+  },
+  {
+    "id": "nitish-kumar-reddy",
+    "name": "Nitish Kumar Reddy",
+    "team": "SRH",
+    "role": "All-rounder",
+    "image": "/players/nitish-kumar-reddy.png"
+  },
+  {
+    "id": "sanju-samson",
+    "name": "Sanju Samson",
+    "team": "RR",
+    "role": "Wicket-keeper",
+    "image": "/players/sanju-samson.png"
+  },
+  {
+    "id": "jos-buttler",
+    "name": "Jos Buttler",
+    "team": "RR",
+    "role": "Wicket-keeper",
+    "image": "/players/jos-buttler.png"
+  },
+  {
+    "id": "yashasvi-jaiswal",
+    "name": "Yashasvi Jaiswal",
+    "team": "RR",
+    "role": "Batsman",
+    "image": "/players/yashasvi-jaiswal.png"
+  },
+  {
+    "id": "yuzvendra-chahal",
+    "name": "Yuzvendra Chahal",
+    "team": "RR",
+    "role": "Bowler",
+    "image": "/players/yuzvendra-chahal.png"
+  },
+  {
+    "id": "trent-boult",
+    "name": "Trent Boult",
+    "team": "RR",
+    "role": "Bowler",
+    "image": "/players/trent-boult.png"
+  },
+  {
+    "id": "riyan-parag",
+    "name": "Riyan Parag",
+    "team": "RR",
+    "role": "All-rounder",
+    "image": "/players/riyan-parag.png"
+  },
+  {
+    "id": "ravichandran-ashwin",
+    "name": "Ravichandran Ashwin",
+    "team": "RR",
+    "role": "All-rounder",
+    "image": "/players/ravichandran-ashwin.png"
+  },
+  {
+    "id": "sandeep-sharma",
+    "name": "Sandeep Sharma",
+    "team": "RR",
+    "role": "Bowler",
+    "image": "/players/sandeep-sharma.png"
+  },
+  {
+    "id": "rishabh-pant",
+    "name": "Rishabh Pant",
+    "team": "DC",
+    "role": "Wicket-keeper",
+    "image": "/players/rishabh-pant.png"
+  },
+  {
+    "id": "david-warner",
+    "name": "David Warner",
+    "team": "DC",
+    "role": "Batsman",
+    "image": "/players/david-warner.png"
+  },
+  {
+    "id": "axar-patel",
+    "name": "Axar Patel",
+    "team": "DC",
+    "role": "All-rounder",
+    "image": "/players/axar-patel.png"
+  },
+  {
+    "id": "kuldeep-yadav",
+    "name": "Kuldeep Yadav",
+    "team": "DC",
+    "role": "Bowler",
+    "image": "/players/kuldeep-yadav.png"
+  },
+  {
+    "id": "tristan-stubbs",
+    "name": "Tristan Stubbs",
+    "team": "DC",
+    "role": "Wicket-keeper",
+    "image": "/players/tristan-stubbs.png"
+  },
+  {
+    "id": "jake-fraser-mcgurk",
+    "name": "Jake Fraser-McGurk",
+    "team": "DC",
+    "role": "Batsman",
+    "image": "/players/jake-fraser-mcgurk.png"
+  },
+  {
+    "id": "khaleel-ahmed",
+    "name": "Khaleel Ahmed",
+    "team": "DC",
+    "role": "Bowler",
+    "image": "/players/khaleel-ahmed.png"
+  },
+  {
+    "id": "sam-curran",
+    "name": "Sam Curran",
+    "team": "PBKS",
+    "role": "All-rounder",
+    "image": "/players/sam-curran.png"
+  },
+  {
+    "id": "kagiso-rabada",
+    "name": "Kagiso Rabada",
+    "team": "PBKS",
+    "role": "Bowler",
+    "image": "/players/kagiso-rabada.png"
+  },
+  {
+    "id": "arshdeep-singh",
+    "name": "Arshdeep Singh",
+    "team": "PBKS",
+    "role": "Bowler",
+    "image": "/players/arshdeep-singh.png"
+  },
+  {
+    "id": "liam-livingstone",
+    "name": "Liam Livingstone",
+    "team": "PBKS",
+    "role": "All-rounder",
+    "image": "/players/liam-livingstone.png"
+  },
+  {
+    "id": "jonny-bairstow",
+    "name": "Jonny Bairstow",
+    "team": "PBKS",
+    "role": "Wicket-keeper",
+    "image": "/players/jonny-bairstow.png"
+  },
+  {
+    "id": "shashank-singh",
+    "name": "Shashank Singh",
+    "team": "PBKS",
+    "role": "Batsman",
+    "image": "/players/shashank-singh.png"
+  },
+  {
+    "id": "ashutosh-sharma",
+    "name": "Ashutosh Sharma",
+    "team": "PBKS",
+    "role": "Batsman",
+    "image": "/players/ashutosh-sharma.png"
+  },
+  {
+    "id": "harshal-patel",
+    "name": "Harshal Patel",
+    "team": "PBKS",
+    "role": "Bowler",
+    "image": "/players/harshal-patel.png"
+  },
+  {
+    "id": "kl-rahul",
+    "name": "KL Rahul",
+    "team": "LSG",
+    "role": "Wicket-keeper",
+    "image": "/players/kl-rahul.png"
+  },
+  {
+    "id": "nicholas-pooran",
+    "name": "Nicholas Pooran",
+    "team": "LSG",
+    "role": "Wicket-keeper",
+    "image": "/players/nicholas-pooran.png"
+  },
+  {
+    "id": "marcus-stoinis",
+    "name": "Marcus Stoinis",
+    "team": "LSG",
+    "role": "All-rounder",
+    "image": "/players/marcus-stoinis.png"
+  },
+  {
+    "id": "quinton-de-kock",
+    "name": "Quinton de Kock",
+    "team": "LSG",
+    "role": "Wicket-keeper",
+    "image": "/players/quinton-de-kock.png"
+  },
+  {
+    "id": "ravi-bishnoi",
+    "name": "Ravi Bishnoi",
+    "team": "LSG",
+    "role": "Bowler",
+    "image": "/players/ravi-bishnoi.png"
+  },
+  {
+    "id": "krunal-pandya",
+    "name": "Krunal Pandya",
+    "team": "LSG",
+    "role": "All-rounder",
+    "image": "/players/krunal-pandya.png"
+  },
+  {
+    "id": "naveen-ul-haq",
+    "name": "Naveen-ul-Haq",
+    "team": "LSG",
+    "role": "Bowler",
+    "image": "/players/naveen-ul-haq.png"
+  },
+  {
+    "id": "shubman-gill",
+    "name": "Shubman Gill",
+    "team": "GT",
+    "role": "Batsman",
+    "image": "/players/shubman-gill.png"
+  },
+  {
+    "id": "rashid-khan",
+    "name": "Rashid Khan",
+    "team": "GT",
+    "role": "Bowler",
+    "image": "/players/rashid-khan.png"
+  },
+  {
+    "id": "sai-sudharsan",
+    "name": "Sai Sudharsan",
+    "team": "GT",
+    "role": "Batsman",
+    "image": "/players/sai-sudharsan.png"
+  },
+  {
+    "id": "david-miller",
+    "name": "David Miller",
+    "team": "GT",
+    "role": "Batsman",
+    "image": "/players/david-miller.png"
+  },
+  {
+    "id": "rahul-tewatia",
+    "name": "Rahul Tewatia",
+    "team": "GT",
+    "role": "All-rounder",
+    "image": "/players/rahul-tewatia.png"
+  },
+  {
+    "id": "mohammed-shami",
+    "name": "Mohammed Shami",
+    "team": "GT",
+    "role": "Bowler",
+    "image": "/players/mohammed-shami.png"
+  },
+  {
+    "id": "mohit-sharma",
+    "name": "Mohit Sharma",
+    "team": "GT",
+    "role": "Bowler",
+    "image": "/players/mohit-sharma.png"
+  }
+]
