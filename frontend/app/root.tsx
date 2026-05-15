@@ -10,6 +10,7 @@ import "./styles/theme.css";
 import { useColorScheme } from "@dazl/color-scheme/react";
 import favicon from "/favicon.svg";
 
+
 export const links: Route.LinksFunction = () => [
   {
     rel: "icon",
@@ -48,8 +49,15 @@ export function Layout({ children }: { children: React.ReactNode }) {
   );
 }
 
+import { FloatingAssistant } from '~/components/floating-assistant/floating-assistant';
+
 export default function App() {
-  return <Outlet />;
+  return (
+    <>
+      <Outlet />
+      <FloatingAssistant />
+    </>
+  );
 }
 
 export const ErrorBoundary = ErrorBoundaryRoot;
