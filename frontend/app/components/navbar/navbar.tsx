@@ -6,11 +6,13 @@ export function Navbar() {
   return (
     <nav className={styles.navbar}>
       <Link to="/" className={styles.logo}>
-        <img src="/ipl-logo.png" alt="IPL Mindreader" className={styles.logoImg} />
+        <div className={styles.brandIconWrapper}>
+          <img src="/ipl-logo.png" alt="MIND11" className={styles.brandIcon} />
+        </div>
         <div className={styles.logoText}>
           <div className={styles.logoTitle}>
-            <span className={styles.logoIpl}>IPL</span>
-            <span className={styles.logoMind}>MindReader</span>
+            <span className={styles.brandText}>MIND</span>
+            <span className={styles.brandAccent}>11</span>
           </div>
           <span className={styles.logoSub}>AI THAT KNOWS CRICKET</span>
         </div>

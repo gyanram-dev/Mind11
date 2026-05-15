@@ -23,12 +23,6 @@
   text-decoration: none;
 }
 
-.logoImg {
-  height: 44px;
-  width: auto;
-  object-fit: contain;
-}
-
 .logoText {
   display: flex;
   flex-direction: column;
@@ -37,28 +31,49 @@
 
 .logoTitle {
   display: flex;
-  align-items: baseline;
-  gap: 6px;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 0;
   line-height: 1;
 }
 
-.logoIpl {
+.brandText {
   font-family: 'Orbitron', 'Exo 2', var(--family-display);
-  font-size: 1.1rem;
-  font-weight: 700;
+  font-size: 1.4rem;
+  font-weight: 800;
   color: #ffffff;
-  letter-spacing: 2px;
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
 }
 
-.logoMind {
+.brandAccent {
   font-family: 'Orbitron', 'Exo 2', var(--family-display);
-  font-size: 1.1rem;
-  font-weight: 700;
-  letter-spacing: 1px;
-  background: linear-gradient(90deg, #FFC93C 0%, #3D7BFF 100%);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  background-clip: text;
+  font-size: 1.4rem;
+  font-weight: 800;
+  color: #00e5ff;
+  letter-spacing: 1.5px;
+  text-shadow: 0 0 12px rgba(0, 229, 255, 0.4);
+}
+
+.brandIconWrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 36px;
+  height: 36px;
+  background: linear-gradient(135deg, rgba(0, 229, 255, 0.08) 0%, rgba(0, 229, 255, 0.02) 100%);
+  border: 1px solid rgba(0, 229, 255, 0.2);
+  border-radius: 8px; /* sharp geometry, app-icon feel */
+  box-shadow: 0 0 20px rgba(0, 229, 255, 0.15), inset 0 0 10px rgba(0, 229, 255, 0.05);
+  backdrop-filter: blur(8px);
+}
+
+.brandIcon {
+  height: 20px;
+  width: auto;
+  object-fit: contain;
+  filter: drop-shadow(0 0 6px rgba(0, 229, 255, 0.6));
+  transform: translateY(-1px);
 }
 
 .logoSub {

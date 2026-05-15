@@ -1,0 +1,297 @@
+[
+  {
+    "id": "ravindra-jadeja",
+    "name": "Ravindra Jadeja",
+    "reason": "Image deleted during cleanup: Excessive text detected (90 chars). Likely screenshot/document."
+  },
+  {
+    "id": "ruturaj-gaikwad",
+    "name": "Ruturaj Gaikwad",
+    "reason": "Image deleted during cleanup: Excessive text detected (100 chars). Likely screenshot/document."
+  },
+  {
+    "id": "shivam-dube",
+    "name": "Shivam Dube",
+    "reason": "Image deleted during cleanup: Excessive text detected (43 chars). Likely screenshot/document."
+  },
+  {
+    "id": "matheesha-pathirana",
+    "name": "Matheesha Pathirana",
+    "reason": "Image deleted during cleanup: Dominant color mismatch (Wrong Jersey/Team)."
+  },
+  {
+    "id": "rachin-ravindra",
+    "name": "Rachin Ravindra",
+    "reason": "Image deleted during cleanup: Excessive text detected (59 chars). Likely screenshot/document."
+  },
+  {
+    "id": "devon-conway",
+    "name": "Devon Conway",
+    "reason": "Image deleted during cleanup: Excessive text detected (53 chars). Likely screenshot/document."
+  },
+  {
+    "id": "jasprit-bumrah",
+    "name": "Jasprit Bumrah",
+    "reason": "Image deleted during cleanup: Dominant color mismatch (Wrong Jersey/Team)."
+  },
+  {
+    "id": "hardik-pandya",
+    "name": "Hardik Pandya",
+    "reason": "Image deleted during cleanup: Dominant color mismatch (Wrong Jersey/Team)."
+  },
+  {
+    "id": "ishan-kishan",
+    "name": "Ishan Kishan",
+    "reason": "Image deleted during cleanup: Excessive text detected (414 chars). Likely screenshot/document."
+  },
+  {
+    "id": "tilak-varma",
+    "name": "Tilak Varma",
+    "reason": "Image deleted during cleanup: Dominant color mismatch (Wrong Jersey/Team)."
+  },
+  {
+    "id": "faf-du-plessis",
+    "name": "Faf du Plessis",
+    "reason": "Image deleted during cleanup: Excessive text detected (68 chars). Likely screenshot/document."
+  },
+  {
+    "id": "mohammed-siraj",
+    "name": "Mohammed Siraj",
+    "reason": "Image deleted during cleanup: Excessive text detected (89 chars). Likely screenshot/document."
+  },
+  {
+    "id": "rajat-patidar",
+    "name": "Rajat Patidar",
+    "reason": "Image deleted during cleanup: Dominant color mismatch (Wrong Jersey/Team)."
+  },
+  {
+    "id": "cameron-green",
+    "name": "Cameron Green",
+    "reason": "Image deleted during cleanup: Excessive text detected (111 chars). Likely screenshot/document."
+  },
+  {
+    "id": "dinesh-karthik",
+    "name": "Dinesh Karthik",
+    "reason": "Image deleted during cleanup: Excessive text detected (216 chars). Likely screenshot/document."
+  },
+  {
+    "id": "andre-russell",
+    "name": "Andre Russell",
+    "reason": "Image deleted during cleanup: Excessive text detected (32 chars). Likely screenshot/document."
+  },
+  {
+    "id": "mitchell-starc",
+    "name": "Mitchell Starc",
+    "reason": "Image deleted during cleanup: Dominant color mismatch (Wrong Jersey/Team)."
+  },
+  {
+    "id": "varun-chakaravarthy",
+    "name": "Varun Chakaravarthy",
+    "reason": "Image deleted during cleanup: Excessive text detected (275 chars). Likely screenshot/document."
+  },
+  {
+    "id": "venkatesh-iyer",
+    "name": "Venkatesh Iyer",
+    "reason": "Image deleted during cleanup: Dominant color mismatch (Wrong Jersey/Team)."
+  },
+  {
+    "id": "phil-salt",
+    "name": "Phil Salt",
+    "reason": "Image deleted during cleanup: Dominant color mismatch (Wrong Jersey/Team)."
+  },
+  {
+    "id": "travis-head",
+    "name": "Travis Head",
+    "reason": "Image deleted during cleanup: Excessive text detected (79 chars). Likely screenshot/document."
+  },
+  {
+    "id": "heinrich-klaasen",
+    "name": "Heinrich Klaasen",
+    "reason": "Image deleted during cleanup: Dominant color mismatch (Wrong Jersey/Team)."
+  },
+  {
+    "id": "pat-cummins",
+    "name": "Pat Cummins",
+    "reason": "Image deleted during cleanup: Excessive text detected (26 chars). Likely screenshot/document."
+  },
+  {
+    "id": "abhishek-sharma",
+    "name": "Abhishek Sharma",
+    "reason": "Image deleted during cleanup: Excessive text detected (51 chars). Likely screenshot/document."
+  },
+  {
+    "id": "bhuvneshwar-kumar",
+    "name": "Bhuvneshwar Kumar",
+    "reason": "Image deleted during cleanup: Excessive text detected (111 chars). Likely screenshot/document."
+  },
+  {
+    "id": "t-natarajan",
+    "name": "T Natarajan",
+    "reason": "Image deleted during cleanup: Dominant color mismatch (Wrong Jersey/Team)."
+  },
+  {
+    "id": "aiden-markram",
+    "name": "Aiden Markram",
+    "reason": "Image deleted during cleanup: Excessive text detected (43 chars). Likely screenshot/document."
+  },
+  {
+    "id": "nitish-kumar-reddy",
+    "name": "Nitish Kumar Reddy",
+    "reason": "Image deleted during cleanup: Excessive text detected (31 chars). Likely screenshot/document."
+  },
+  {
+    "id": "sanju-samson",
+    "name": "Sanju Samson",
+    "reason": "Image deleted during cleanup: Excessive text detected (59 chars). Likely screenshot/document."
+  },
+  {
+    "id": "jos-buttler",
+    "name": "Jos Buttler",
+    "reason": "Image deleted during cleanup: Dominant color mismatch (Wrong Jersey/Team)."
+  },
+  {
+    "id": "yashasvi-jaiswal",
+    "name": "Yashasvi Jaiswal",
+    "reason": "Image deleted during cleanup: Excessive text detected (146 chars). Likely screenshot/document."
+  },
+  {
+    "id": "yuzvendra-chahal",
+    "name": "Yuzvendra Chahal",
+    "reason": "Image deleted during cleanup: Excessive text detected (70 chars). Likely screenshot/document."
+  },
+  {
+    "id": "trent-boult",
+    "name": "Trent Boult",
+    "reason": "Image deleted during cleanup: Dominant color mismatch (Wrong Jersey/Team)."
+  },
+  {
+    "id": "riyan-parag",
+    "name": "Riyan Parag",
+    "reason": "Image deleted during cleanup: Excessive text detected (85 chars). Likely screenshot/document."
+  },
+  {
+    "id": "ravichandran-ashwin",
+    "name": "Ravichandran Ashwin",
+    "reason": "Image deleted during cleanup: Excessive text detected (29 chars). Likely screenshot/document."
+  },
+  {
+    "id": "sandeep-sharma",
+    "name": "Sandeep Sharma",
+    "reason": "Image deleted during cleanup: Dominant color mismatch (Wrong Jersey/Team)."
+  },
+  {
+    "id": "rishabh-pant",
+    "name": "Rishabh Pant",
+    "reason": "Image deleted during cleanup: Dominant color mismatch (Wrong Jersey/Team)."
+  },
+  {
+    "id": "david-warner",
+    "name": "David Warner",
+    "reason": "Image deleted during cleanup: Excessive text detected (61 chars). Likely screenshot/document."
+  },
+  {
+    "id": "kuldeep-yadav",
+    "name": "Kuldeep Yadav",
+    "reason": "Image deleted during cleanup: Dominant color mismatch (Wrong Jersey/Team)."
+  },
+  {
+    "id": "tristan-stubbs",
+    "name": "Tristan Stubbs",
+    "reason": "Image deleted during cleanup: Excessive text detected (97 chars). Likely screenshot/document."
+  },
+  {
+    "id": "sam-curran",
+    "name": "Sam Curran",
+    "reason": "Image deleted during cleanup: Excessive text detected (38 chars). Likely screenshot/document."
+  },
+  {
+    "id": "kagiso-rabada",
+    "name": "Kagiso Rabada",
+    "reason": "Image deleted during cleanup: Excessive text detected (37 chars). Likely screenshot/document."
+  },
+  {
+    "id": "arshdeep-singh",
+    "name": "Arshdeep Singh",
+    "reason": "Image deleted during cleanup: Excessive text detected (27 chars). Likely screenshot/document."
+  },
+  {
+    "id": "liam-livingstone",
+    "name": "Liam Livingstone",
+    "reason": "Image deleted during cleanup: Excessive text detected (220 chars). Likely screenshot/document."
+  },
+  {
+    "id": "jonny-bairstow",
+    "name": "Jonny Bairstow",
+    "reason": "Image deleted during cleanup: Excessive text detected (69 chars). Likely screenshot/document."
+  },
+  {
+    "id": "shashank-singh",
+    "name": "Shashank Singh",
+    "reason": "Image deleted during cleanup: Excessive text detected (27 chars). Likely screenshot/document."
+  },
+  {
+    "id": "ashutosh-sharma",
+    "name": "Ashutosh Sharma",
+    "reason": "Image deleted during cleanup: Dominant color mismatch (Wrong Jersey/Team)."
+  },
+  {
+    "id": "harshal-patel",
+    "name": "Harshal Patel",
+    "reason": "Image deleted during cleanup: Excessive text detected (88 chars). Likely screenshot/document."
+  },
+  {
+    "id": "kl-rahul",
+    "name": "KL Rahul",
+    "reason": "Image deleted during cleanup: Excessive text detected (73 chars). Likely screenshot/document."
+  },
+  {
+    "id": "nicholas-pooran",
+    "name": "Nicholas Pooran",
+    "reason": "Image deleted during cleanup: Excessive text detected (26 chars). Likely screenshot/document."
+  },
+  {
+    "id": "quinton-de-kock",
+    "name": "Quinton de Kock",
+    "reason": "Image deleted during cleanup: Excessive text detected (79 chars). Likely screenshot/document."
+  },
+  {
+    "id": "ravi-bishnoi",
+    "name": "Ravi Bishnoi",
+    "reason": "Image deleted during cleanup: Excessive text detected (79 chars). Likely screenshot/document."
+  },
+  {
+    "id": "krunal-pandya",
+    "name": "Krunal Pandya",
+    "reason": "Image deleted during cleanup: Excessive text detected (63 chars). Likely screenshot/document."
+  },
+  {
+    "id": "naveen-ul-haq",
+    "name": "Naveen-ul-Haq",
+    "reason": "Image deleted during cleanup: Dominant color mismatch (Wrong Jersey/Team)."
+  },
+  {
+    "id": "shubman-gill",
+    "name": "Shubman Gill",
+    "reason": "Image deleted during cleanup: Excessive text detected (174 chars). Likely screenshot/document."
+  },
+  {
+    "id": "sai-sudharsan",
+    "name": "Sai Sudharsan",
+    "reason": "Image deleted during cleanup: Excessive text detected (83 chars). Likely screenshot/document."
+  },
+  {
+    "id": "rahul-tewatia",
+    "name": "Rahul Tewatia",
+    "reason": "Image deleted during cleanup: Excessive text detected (39 chars). Likely screenshot/document."
+  },
+  {
+    "id": "mohammed-shami",
+    "name": "Mohammed Shami",
+    "reason": "Image deleted during cleanup: Excessive text detected (83 chars). Likely screenshot/document."
+  },
+  {
+    "id": "mohit-sharma",
+    "name": "Mohit Sharma",
+    "reason": "Image deleted during cleanup: Excessive text detected (43 chars). Likely screenshot/document."
+  }
+]

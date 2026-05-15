@@ -1,0 +1,248 @@
+[
+  {
+    "id": "ravindra-jadeja",
+    "name": "Ravindra Jadeja",
+    "team": "CSK",
+    "status": "Corrected and verified"
+  },
+  {
+    "id": "shivam-dube",
+    "name": "Shivam Dube",
+    "team": "CSK",
+    "status": "Corrected and verified"
+  },
+  {
+    "id": "matheesha-pathirana",
+    "name": "Matheesha Pathirana",
+    "team": "CSK",
+    "status": "Corrected and verified"
+  },
+  {
+    "id": "deepak-chahar",
+    "name": "Deepak Chahar",
+    "team": "CSK",
+    "status": "Corrected and verified"
+  },
+  {
+    "id": "rachin-ravindra",
+    "name": "Rachin Ravindra",
+    "team": "CSK",
+    "status": "Corrected and verified"
+  },
+  {
+    "id": "devon-conway",
+    "name": "Devon Conway",
+    "team": "CSK",
+    "status": "Corrected and verified"
+  },
+  {
+    "id": "jasprit-bumrah",
+    "name": "Jasprit Bumrah",
+    "team": "MI",
+    "status": "Corrected and verified"
+  },
+  {
+    "id": "hardik-pandya",
+    "name": "Hardik Pandya",
+    "team": "MI",
+    "status": "Corrected and verified"
+  },
+  {
+    "id": "ishan-kishan",
+    "name": "Ishan Kishan",
+    "team": "MI",
+    "status": "Corrected and verified"
+  },
+  {
+    "id": "tilak-varma",
+    "name": "Tilak Varma",
+    "team": "MI",
+    "status": "Corrected and verified"
+  },
+  {
+    "id": "piyush-chawla",
+    "name": "Piyush Chawla",
+    "team": "MI",
+    "status": "Corrected and verified"
+  },
+  {
+    "id": "rajat-patidar",
+    "name": "Rajat Patidar",
+    "team": "RCB",
+    "status": "Corrected and verified"
+  },
+  {
+    "id": "cameron-green",
+    "name": "Cameron Green",
+    "team": "RCB",
+    "status": "Corrected and verified"
+  },
+  {
+    "id": "sunil-narine",
+    "name": "Sunil Narine",
+    "team": "KKR",
+    "status": "Corrected and verified"
+  },
+  {
+    "id": "varun-chakaravarthy",
+    "name": "Varun Chakaravarthy",
+    "team": "KKR",
+    "status": "Corrected and verified"
+  },
+  {
+    "id": "heinrich-klaasen",
+    "name": "Heinrich Klaasen",
+    "team": "SRH",
+    "status": "Corrected and verified"
+  },
+  {
+    "id": "pat-cummins",
+    "name": "Pat Cummins",
+    "team": "SRH",
+    "status": "Corrected and verified"
+  },
+  {
+    "id": "t-natarajan",
+    "name": "T Natarajan",
+    "team": "SRH",
+    "status": "Corrected and verified"
+  },
+  {
+    "id": "aiden-markram",
+    "name": "Aiden Markram",
+    "team": "SRH",
+    "status": "Corrected and verified"
+  },
+  {
+    "id": "nitish-kumar-reddy",
+    "name": "Nitish Kumar Reddy",
+    "team": "SRH",
+    "status": "Corrected and verified"
+  },
+  {
+    "id": "sanju-samson",
+    "name": "Sanju Samson",
+    "team": "RR",
+    "status": "Corrected and verified"
+  },
+  {
+    "id": "jos-buttler",
+    "name": "Jos Buttler",
+    "team": "RR",
+    "status": "Corrected and verified"
+  },
+  {
+    "id": "riyan-parag",
+    "name": "Riyan Parag",
+    "team": "RR",
+    "status": "Corrected and verified"
+  },
+  {
+    "id": "ravichandran-ashwin",
+    "name": "Ravichandran Ashwin",
+    "team": "RR",
+    "status": "Corrected and verified"
+  },
+  {
+    "id": "sandeep-sharma",
+    "name": "Sandeep Sharma",
+    "team": "RR",
+    "status": "Corrected and verified"
+  },
+  {
+    "id": "rishabh-pant",
+    "name": "Rishabh Pant",
+    "team": "DC",
+    "status": "Corrected and verified"
+  },
+  {
+    "id": "david-warner",
+    "name": "David Warner",
+    "team": "DC",
+    "status": "Corrected and verified"
+  },
+  {
+    "id": "kuldeep-yadav",
+    "name": "Kuldeep Yadav",
+    "team": "DC",
+    "status": "Corrected and verified"
+  },
+  {
+    "id": "tristan-stubbs",
+    "name": "Tristan Stubbs",
+    "team": "DC",
+    "status": "Corrected and verified"
+  },
+  {
+    "id": "jake-fraser-mcgurk",
+    "name": "Jake Fraser-McGurk",
+    "team": "DC",
+    "status": "Corrected and verified"
+  },
+  {
+    "id": "sam-curran",
+    "name": "Sam Curran",
+    "team": "PBKS",
+    "status": "Corrected and verified"
+  },
+  {
+    "id": "arshdeep-singh",
+    "name": "Arshdeep Singh",
+    "team": "PBKS",
+    "status": "Corrected and verified"
+  },
+  {
+    "id": "liam-livingstone",
+    "name": "Liam Livingstone",
+    "team": "PBKS",
+    "status": "Corrected and verified"
+  },
+  {
+    "id": "ashutosh-sharma",
+    "name": "Ashutosh Sharma",
+    "team": "PBKS",
+    "status": "Corrected and verified"
+  },
+  {
+    "id": "harshal-patel",
+    "name": "Harshal Patel",
+    "team": "PBKS",
+    "status": "Corrected and verified"
+  },
+  {
+    "id": "ravi-bishnoi",
+    "name": "Ravi Bishnoi",
+    "team": "LSG",
+    "status": "Corrected and verified"
+  },
+  {
+    "id": "rashid-khan",
+    "name": "Rashid Khan",
+    "team": "GT",
+    "status": "Corrected and verified"
+  },
+  {
+    "id": "sai-sudharsan",
+    "name": "Sai Sudharsan",
+    "team": "GT",
+    "status": "Corrected and verified"
+  },
+  {
+    "id": "rahul-tewatia",
+    "name": "Rahul Tewatia",
+    "team": "GT",
+    "status": "Corrected and verified"
+  },
+  {
+    "id": "mohammed-shami",
+    "name": "Mohammed Shami",
+    "team": "GT",
+    "status": "Corrected and verified"
+  },
+  {
+    "id": "mohit-sharma",
+    "name": "Mohit Sharma",
+    "team": "GT",
+    "status": "Corrected and verified"
+  }
+]

@@ -1,0 +1,356 @@
+[
+  {
+    "player": "ravindra-jadeja",
+    "name": "Ravindra Jadeja",
+    "team": "CSK",
+    "reason": "Excessive text detected (90 chars). Likely screenshot/document."
+  },
+  {
+    "player": "ruturaj-gaikwad",
+    "name": "Ruturaj Gaikwad",
+    "team": "CSK",
+    "reason": "Excessive text detected (100 chars). Likely screenshot/document."
+  },
+  {
+    "player": "shivam-dube",
+    "name": "Shivam Dube",
+    "team": "CSK",
+    "reason": "Excessive text detected (43 chars). Likely screenshot/document."
+  },
+  {
+    "player": "matheesha-pathirana",
+    "name": "Matheesha Pathirana",
+    "team": "CSK",
+    "reason": "Dominant color mismatch (Wrong Jersey/Team)."
+  },
+  {
+    "player": "rachin-ravindra",
+    "name": "Rachin Ravindra",
+    "team": "CSK",
+    "reason": "Excessive text detected (59 chars). Likely screenshot/document."
+  },
+  {
+    "player": "devon-conway",
+    "name": "Devon Conway",
+    "team": "CSK",
+    "reason": "Excessive text detected (53 chars). Likely screenshot/document."
+  },
+  {
+    "player": "jasprit-bumrah",
+    "name": "Jasprit Bumrah",
+    "team": "MI",
+    "reason": "Dominant color mismatch (Wrong Jersey/Team)."
+  },
+  {
+    "player": "hardik-pandya",
+    "name": "Hardik Pandya",
+    "team": "MI",
+    "reason": "Dominant color mismatch (Wrong Jersey/Team)."
+  },
+  {
+    "player": "ishan-kishan",
+    "name": "Ishan Kishan",
+    "team": "MI",
+    "reason": "Excessive text detected (414 chars). Likely screenshot/document."
+  },
+  {
+    "player": "tilak-varma",
+    "name": "Tilak Varma",
+    "team": "MI",
+    "reason": "Dominant color mismatch (Wrong Jersey/Team)."
+  },
+  {
+    "player": "faf-du-plessis",
+    "name": "Faf du Plessis",
+    "team": "RCB",
+    "reason": "Excessive text detected (68 chars). Likely screenshot/document."
+  },
+  {
+    "player": "mohammed-siraj",
+    "name": "Mohammed Siraj",
+    "team": "RCB",
+    "reason": "Excessive text detected (89 chars). Likely screenshot/document."
+  },
+  {
+    "player": "rajat-patidar",
+    "name": "Rajat Patidar",
+    "team": "RCB",
+    "reason": "Dominant color mismatch (Wrong Jersey/Team)."
+  },
+  {
+    "player": "cameron-green",
+    "name": "Cameron Green",
+    "team": "RCB",
+    "reason": "Excessive text detected (111 chars). Likely screenshot/document."
+  },
+  {
+    "player": "dinesh-karthik",
+    "name": "Dinesh Karthik",
+    "team": "RCB",
+    "reason": "Excessive text detected (216 chars). Likely screenshot/document."
+  },
+  {
+    "player": "andre-russell",
+    "name": "Andre Russell",
+    "team": "KKR",
+    "reason": "Excessive text detected (32 chars). Likely screenshot/document."
+  },
+  {
+    "player": "mitchell-starc",
+    "name": "Mitchell Starc",
+    "team": "KKR",
+    "reason": "Dominant color mismatch (Wrong Jersey/Team)."
+  },
+  {
+    "player": "varun-chakaravarthy",
+    "name": "Varun Chakaravarthy",
+    "team": "KKR",
+    "reason": "Excessive text detected (275 chars). Likely screenshot/document."
+  },
+  {
+    "player": "venkatesh-iyer",
+    "name": "Venkatesh Iyer",
+    "team": "KKR",
+    "reason": "Dominant color mismatch (Wrong Jersey/Team)."
+  },
+  {
+    "player": "phil-salt",
+    "name": "Phil Salt",
+    "team": "KKR",
+    "reason": "Dominant color mismatch (Wrong Jersey/Team)."
+  },
+  {
+    "player": "travis-head",
+    "name": "Travis Head",
+    "team": "SRH",
+    "reason": "Excessive text detected (79 chars). Likely screenshot/document."
+  },
+  {
+    "player": "heinrich-klaasen",
+    "name": "Heinrich Klaasen",
+    "team": "SRH",
+    "reason": "Dominant color mismatch (Wrong Jersey/Team)."
+  },
+  {
+    "player": "pat-cummins",
+    "name": "Pat Cummins",
+    "team": "SRH",
+    "reason": "Excessive text detected (26 chars). Likely screenshot/document."
+  },
+  {
+    "player": "abhishek-sharma",
+    "name": "Abhishek Sharma",
+    "team": "SRH",
+    "reason": "Excessive text detected (51 chars). Likely screenshot/document."
+  },
+  {
+    "player": "bhuvneshwar-kumar",
+    "name": "Bhuvneshwar Kumar",
+    "team": "SRH",
+    "reason": "Excessive text detected (111 chars). Likely screenshot/document."
+  },
+  {
+    "player": "t-natarajan",
+    "name": "T Natarajan",
+    "team": "SRH",
+    "reason": "Dominant color mismatch (Wrong Jersey/Team)."
+  },
+  {
+    "player": "aiden-markram",
+    "name": "Aiden Markram",
+    "team": "SRH",
+    "reason": "Excessive text detected (43 chars). Likely screenshot/document."
+  },
+  {
+    "player": "nitish-kumar-reddy",
+    "name": "Nitish Kumar Reddy",
+    "team": "SRH",
+    "reason": "Excessive text detected (31 chars). Likely screenshot/document."
+  },
+  {
+    "player": "sanju-samson",
+    "name": "Sanju Samson",
+    "team": "RR",
+    "reason": "Excessive text detected (59 chars). Likely screenshot/document."
+  },
+  {
+    "player": "jos-buttler",
+    "name": "Jos Buttler",
+    "team": "RR",
+    "reason": "Dominant color mismatch (Wrong Jersey/Team)."
+  },
+  {
+    "player": "yashasvi-jaiswal",
+    "name": "Yashasvi Jaiswal",
+    "team": "RR",
+    "reason": "Excessive text detected (146 chars). Likely screenshot/document."
+  },
+  {
+    "player": "yuzvendra-chahal",
+    "name": "Yuzvendra Chahal",
+    "team": "RR",
+    "reason": "Excessive text detected (70 chars). Likely screenshot/document."
+  },
+  {
+    "player": "trent-boult",
+    "name": "Trent Boult",
+    "team": "RR",
+    "reason": "Dominant color mismatch (Wrong Jersey/Team)."
+  },
+  {
+    "player": "riyan-parag",
+    "name": "Riyan Parag",
+    "team": "RR",
+    "reason": "Excessive text detected (85 chars). Likely screenshot/document."
+  },
+  {
+    "player": "ravichandran-ashwin",
+    "name": "Ravichandran Ashwin",
+    "team": "RR",
+    "reason": "Excessive text detected (29 chars). Likely screenshot/document."
+  },
+  {
+    "player": "sandeep-sharma",
+    "name": "Sandeep Sharma",
+    "team": "RR",
+    "reason": "Dominant color mismatch (Wrong Jersey/Team)."
+  },
+  {
+    "player": "rishabh-pant",
+    "name": "Rishabh Pant",
+    "team": "DC",
+    "reason": "Dominant color mismatch (Wrong Jersey/Team)."
+  },
+  {
+    "player": "david-warner",
+    "name": "David Warner",
+    "team": "DC",
+    "reason": "Excessive text detected (61 chars). Likely screenshot/document."
+  },
+  {
+    "player": "kuldeep-yadav",
+    "name": "Kuldeep Yadav",
+    "team": "DC",
+    "reason": "Dominant color mismatch (Wrong Jersey/Team)."
+  },
+  {
+    "player": "tristan-stubbs",
+    "name": "Tristan Stubbs",
+    "team": "DC",
+    "reason": "Excessive text detected (97 chars). Likely screenshot/document."
+  },
+  {
+    "player": "sam-curran",
+    "name": "Sam Curran",
+    "team": "PBKS",
+    "reason": "Excessive text detected (38 chars). Likely screenshot/document."
+  },
+  {
+    "player": "kagiso-rabada",
+    "name": "Kagiso Rabada",
+    "team": "PBKS",
+    "reason": "Excessive text detected (37 chars). Likely screenshot/document."
+  },
+  {
+    "player": "arshdeep-singh",
+    "name": "Arshdeep Singh",
+    "team": "PBKS",
+    "reason": "Excessive text detected (27 chars). Likely screenshot/document."
+  },
+  {
+    "player": "liam-livingstone",
+    "name": "Liam Livingstone",
+    "team": "PBKS",
+    "reason": "Excessive text detected (220 chars). Likely screenshot/document."
+  },
+  {
+    "player": "jonny-bairstow",
+    "name": "Jonny Bairstow",
+    "team": "PBKS",
+    "reason": "Excessive text detected (69 chars). Likely screenshot/document."
+  },
+  {
+    "player": "shashank-singh",
+    "name": "Shashank Singh",
+    "team": "PBKS",
+    "reason": "Excessive text detected (27 chars). Likely screenshot/document."
+  },
+  {
+    "player": "ashutosh-sharma",
+    "name": "Ashutosh Sharma",
+    "team": "PBKS",
+    "reason": "Dominant color mismatch (Wrong Jersey/Team)."
+  },
+  {
+    "player": "harshal-patel",
+    "name": "Harshal Patel",
+    "team": "PBKS",
+    "reason": "Excessive text detected (88 chars). Likely screenshot/document."
+  },
+  {
+    "player": "kl-rahul",
+    "name": "KL Rahul",
+    "team": "LSG",
+    "reason": "Excessive text detected (73 chars). Likely screenshot/document."
+  },
+  {
+    "player": "nicholas-pooran",
+    "name": "Nicholas Pooran",
+    "team": "LSG",
+    "reason": "Excessive text detected (26 chars). Likely screenshot/document."
+  },
+  {
+    "player": "quinton-de-kock",
+    "name": "Quinton de Kock",
+    "team": "LSG",
+    "reason": "Excessive text detected (79 chars). Likely screenshot/document."
+  },
+  {
+    "player": "ravi-bishnoi",
+    "name": "Ravi Bishnoi",
+    "team": "LSG",
+    "reason": "Excessive text detected (79 chars). Likely screenshot/document."
+  },
+  {
+    "player": "krunal-pandya",
+    "name": "Krunal Pandya",
+    "team": "LSG",
+    "reason": "Excessive text detected (63 chars). Likely screenshot/document."
+  },
+  {
+    "player": "naveen-ul-haq",
+    "name": "Naveen-ul-Haq",
+    "team": "LSG",
+    "reason": "Dominant color mismatch (Wrong Jersey/Team)."
+  },
+  {
+    "player": "shubman-gill",
+    "name": "Shubman Gill",
+    "team": "GT",
+    "reason": "Excessive text detected (174 chars). Likely screenshot/document."
+  },
+  {
+    "player": "sai-sudharsan",
+    "name": "Sai Sudharsan",
+    "team": "GT",
+    "reason": "Excessive text detected (83 chars). Likely screenshot/document."
+  },
+  {
+    "player": "rahul-tewatia",
+    "name": "Rahul Tewatia",
+    "team": "GT",
+    "reason": "Excessive text detected (39 chars). Likely screenshot/document."
+  },
+  {
+    "player": "mohammed-shami",
+    "name": "Mohammed Shami",
+    "team": "GT",
+    "reason": "Excessive text detected (83 chars). Likely screenshot/document."
+  },
+  {
+    "player": "mohit-sharma",
+    "name": "Mohit Sharma",
+    "team": "GT",
+    "reason": "Excessive text detected (43 chars). Likely screenshot/document."
+  }
+]
